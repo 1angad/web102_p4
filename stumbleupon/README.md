@@ -30,6 +30,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
+![web102_p4](https://github.com/1angad/web102_p4/assets/96559688/8e35c2a4-b7e6-4830-a14f-7a7c83479efa)
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  ScreenToGif
